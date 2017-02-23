@@ -1,3 +1,3 @@
 # hello-world
-Calm down and I'll get there.
-"Stay hungry, stay foolish." -- Steve Jobs
+Calm down and I'll get there.\n
+Yes, I'm pretty sure.
